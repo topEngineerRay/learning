@@ -1,0 +1,687 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6f275ce4-d1ac-4f35-b8d6-f84dbb67d71f" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Singleton" />
+        <option value="JavaFXApplication" />
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1PRxG0q8I1fBUbQi3Hgsf5O22OI" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Performance</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Usability &gt; Icons</id>
+          </State>
+          <State>
+            <id>Android Lint for Kotlin</id>
+          </State>
+          <State>
+            <id>Assignment issuesGroovy</id>
+          </State>
+          <State>
+            <id>Code style issuesJava</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java 5Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>RawUseOfParameterizedType</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="LinkedList&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/LinkedList.java&#10;Class&#9;PSI&#9;JAVA://com.dr.Basic.Class&#10;HashMap&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/HashMap.java&#10;BeanFactory&#9;PSI&#9;JAVA://org.springframework.beans.factory.BeanFactory&#10;autowired&#9;PSI&#9;JAVA://org.springframework.beans.factory.annotation.Autowired&#10;DataSourceUtils&#9;FILE&#9;jar://C:/Users/I333750/.m2/repository/org/springframework/spring-jdbc/4.3.16.RELEASE/spring-jdbc-4.3.16.RELEASE-sources.jar!/org/springframework/jdbc/datasource/DataSourceUtils.java&#10;JdbcTem&#9;FILE&#9;jar://C:/Users/I333750/.m2/repository/org/springframework/spring-jdbc/4.3.16.RELEASE/spring-jdbc-4.3.16.RELEASE.jar!/org/springframework/jdbc/core/JdbcTemplate.class&#10;String&#9;PSI&#9;JAVA://java.lang.String&#10;Thread&#9;PSI&#9;JAVA://java.lang.Thread&#10;Method&#9;FILE&#9;file://C:/Users/I333750/workspace/learning/src/main/java/com/dr/Reflection/getMethodByReflect/MethodClass.java&#10;method&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/reflect/Method.java&#10;Field&#9;PSI&#9;JAVA://java.lang.reflect.Field&#10;ThreadPoolExecutor&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/concurrent/ThreadPoolExecutor.java&#10;Class.java&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/Class.java&#10;String.java&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/String.java&#10;ThreadLocal&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/ThreadLocal.java&#10;Unsafe&#9;PSI&#9;JAVA://sun.misc.Unsafe&#10;ByteBuffer&#9;PSI&#9;JAVA://java.nio.ByteBuffer&#10;File&#9;PSI&#9;JAVA://java.io.File&#10;InputStr&#9;PSI&#9;JAVA://java.io.InputStream&#10;integer&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/Integer.java&#10;hashTable&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/Hashtable.java&#10;Integer&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/Integer.java&#10;System&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/System.java&#10;ArrayLis&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/ArrayList.java&#10;Enum&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/Enum.java&#10;newFixedThreadPool&#9;PSI&#9;JAVA://java.util.concurrent.Executors#newFixedThreadPool&#10;newSingleThreadExecutor&#9;PSI&#9;JAVA://java.util.concurrent.Executors#newSingleThreadExecutor&#10;HashMa&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/HashMap.java&#10;Arra&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/ArrayList.java&#10;Object&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/Object.java&#10;Hash&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/HashMap.java&#10;hashmap&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/HashMap.java&#10;StringBuilder&#9;PSI&#9;JAVA://java.lang.StringBuilder&#10;HashSe&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/HashSet.java&#10;concu&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/concurrent/ConcurrentMap.java&#10;KeyGener&#9;PSI&#9;JAVA://org.springframework.cache.interceptor.KeyGenerator&#10;AtomicInteger&#9;PSI&#9;JAVA://java.util.concurrent.atomic.AtomicInteger&#10;Object.ja&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/Object.java&#10;Classload&#9;PSI&#9;JAVA://java.lang.ClassLoader&#10;Hashset&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/HashSet.java&#10;Map.java&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/Map.java&#10;collec&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/Collection.java&#10;Treemap.&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/TreeMap.java&#10;Thread.java&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/Thread.java&#10;HashTable&#9;PSI&#9;JAVA://java.util.Hashtable&#10;ConcurrentHash&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentHashMap&#10;Concu&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/concurrent/ConcurrentMap.java&#10;Object.java&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/Object.java&#10;Propagation&#9;PSI&#9;JAVA://org.springframework.transaction.annotation.Propagation" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.splitter.proportion" value="0.27040815" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\I333750\workspace\learning\src\main\java\com\dr\mutiplethreads\chapter4" />
+      <recent name="C:\Users\I333750\workspace\learning\src\main\resources\json" />
+      <recent name="C:\Users\I333750\workspace\learning\src\main\java\com\dr\mutiplethreads\chapter1\t11" />
+      <recent name="C:\Users\I333750\workspace\learning\src\main\java\com\sap\ngom\exam" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.dr" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\I333750\workspace\learning\src\main\java\com\dr\learning" />
+      <recent name="C:\Users\I333750\workspace\learning\src\main\java\com\dr\writeAnnotation" />
+      <recent name="C:\Users\I333750\workspace\learning\src\main\java\com\dr\designPattern\proxy\dynamicProxy\Jdk\deCompile" />
+      <recent name="C:\Users\I333750\workspace\learning\src\main\java\com\dr\designPattern\proxy\dynamicProxy" />
+      <recent name="C:\Users\I333750\workspace\learning\src\main\java\com\dr\exam\trains\mySolution4" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.dr.rabbitmq.workqueue" />
+      <recent name="com.dr.designPattern.proxy.dynamicProxy.cglib" />
+      <recent name="com.dr.designPattern.proxy.dynamicProxy.Jdk" />
+      <recent name="com.dr.learing.designPattern.proxy.staticProxy.playingGame.withProxy" />
+      <recent name="com.dr.learing.designPattern.proxy.dynamicProxy.Jdk" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.dr.learing.CollectionAndArray.HashMap" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Com">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dr.Basic.Array" />
+      <module name="learning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dr.Basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Com" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dr.exam.Com" />
+      <module name="learning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dr.exam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dr.mutiplethreads.chapter2.synchronizedUpdateNewValue.Run" />
+      <module name="learning" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dr.mutiplethreads.chapter2.synchronizedUpdateNewValue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run" type="Application" factoryName="Application" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.dr.mutiplethreads.chapter2.t16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.dr.mutiplethreads.chapter2.t16.Run" />
+      <option name="VM_PARAMETERS" value="-server" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="learning" />
+      <envs />
+    </configuration>
+    <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.dr.mutiplethreads.chapter6.singleton2Wrong.test.run.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.dr.mutiplethreads.chapter6.singleton2Wrong.test.run.Run" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="learning" />
+      <envs />
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dr.exam.openinghospital.Solution" />
+      <module name="learning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dr.exam.openinghospital.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestJunitIngore" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dr.junit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dr.junit" />
+      <option name="MAIN_CLASS_NAME" value="com.dr.junit.TestJunitIngore" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestJunitIngore.testPrintMessage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dr.junit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dr.junit" />
+      <option name="MAIN_CLASS_NAME" value="com.dr.junit.TestJunitIngore" />
+      <option name="METHOD_NAME" value="testPrintMessage" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Run" />
+      <item itemvalue="Application.Array" />
+      <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.Com" />
+      <item itemvalue="JUnit.TestJunitIngore" />
+      <item itemvalue="JUnit.TestJunitIngore.testPrintMessage" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Com" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Array" />
+        <item itemvalue="JUnit.TestJunitIngore.testPrintMessage" />
+        <item itemvalue="JUnit.TestJunitIngore" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f275ce4-d1ac-4f35-b8d6-f84dbb67d71f" name="Default" comment="" />
+      <created>1504412611443</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1504412611443</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dr/learing/sort/practise/DirectInsertSort.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dr/learing/sort/practise/DirectInsertSort.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dr/learing/sort/practise/DirectInsertSort.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dr/learing/sort/practise/QuickSort.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dr/Algorithm/GetAllSubCollection.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dr/Algorithm/GetAllSubCollection.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dr/learing/javaBasic/TestHashMap.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dr/learing/sort/practise/QuickSort.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dr/learing/javaBasic/StackImplement.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dr/learing/javaBasic/StackImplement.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dr/learing/Aop/Test.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dr/learing/Aop/UserManagerImpl.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dr/designPattern/proxy/staticProxy/UserDaoProxy.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dr/designPattern/proxy/staticProxy/App.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dr/designPattern/proxy/staticProxy/UserDao.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dr/learing/Aop/Test.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dr/learing/Aop/JDKProxy.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dr/learing/Aop/JDKProxy.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dr/learing/Aop/Test.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dr/jvm/Test.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dr/designPattern/Singleton/notRecommand/SingletonEager.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dr/mutiplethreads/chapter1/t11/Run.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dr/mutiplethreads/chapter1/t12/Run3.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dr/datastructure/ArrayListTest.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dr/playWithJson/Test.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dr/playWithJson/Test.java</url>
+          <line>97</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dr/playWithJson/Test.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dr/mutiplethreads/chapter3/twoThreadTransData/ThreadB.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dr/json/JsonPath/JsonPathDemo.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dr/json/JsonObject/GsonTest.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dr/learing/CollectionAndArray/HashMap/Test.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dr/learing/CollectionAndArray/HashMap/Test.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="162" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dr/learing/CollectionAndArray/HashMap/Test.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="163" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dr/exam/trains/mysolution2/ComputeDistanceTest.java</url>
+          <line>101</line>
+          <option name="timeStamp" value="164" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dr/exam/trains/mysolution2/ComputeDistanceUtil.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="165" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dr/exam/trains/mysolution2/ComputeDistanceUtil.java</url>
+          <line>83</line>
+          <option name="timeStamp" value="166" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dr/exam/trains/mysolution2/ComputeDistanceTest.java</url>
+          <line>145</line>
+          <option name="timeStamp" value="167" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dr/exam/trains/mysolution2/ComputeDistanceTest.java</url>
+          <line>129</line>
+          <option name="timeStamp" value="170" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dr/exam/trains/GraphTest.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="174" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dr/exam/trains/Graph.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="175" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dr/exam/trains/mysolution2/ComputeDistanceTest.java</url>
+          <line>174</line>
+          <option name="timeStamp" value="179" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dr/exam/trains/github/Trains/Routes.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="182" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dr/Basic/Recursion.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="183" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dr/Basic/Recursion.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="184" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dr/Basic/Recursion.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="185" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dr/exam/trains/mysolution2/ComputeDistanceUtil.java</url>
+          <line>177</line>
+          <option name="timeStamp" value="192" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dr/exam/trains/mysolution2/ComputeDistanceUtil.java</url>
+          <line>184</line>
+          <option name="timeStamp" value="193" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dr/exam/trains/mySolution5/Routes.java</url>
+          <line>113</line>
+          <option name="timeStamp" value="197" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dr/exam/trains/mySolution4/Graph.java</url>
+          <line>177</line>
+          <option name="timeStamp" value="204" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dr/exam/trains/mySolution4/Graph.java</url>
+          <line>191</line>
+          <option name="timeStamp" value="211" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dr/exam/trains/mysolution3/TrainPathGraph.java</url>
+          <line>237</line>
+          <option name="timeStamp" value="215" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dr/exam/trains/mysolution3/TrainPathGraph.java</url>
+          <line>228</line>
+          <option name="timeStamp" value="216" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dr/exam/trains/mySolution4/Graph.java</url>
+          <line>181</line>
+          <option name="timeStamp" value="217" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dr/exam/trains/mysolution3/TrainPathGraph.java</url>
+          <line>193</line>
+          <option name="timeStamp" value="218" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dr/exam/trains/mysolution3/TrainPathGraph.java</url>
+          <line>165</line>
+          <option name="timeStamp" value="220" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dr/designPattern/Singleton/notRecommand/SingletonEager.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="221" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dr/designPattern/proxy/dynamicProxy/Jdk/deCompile/ProxyGeneratorUtils.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="222" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dr/Basic/IntegerTest.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="223" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dr/mutiplethreads/chapter1/callMainMethodMainThread/Test.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="224" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dr/Basic/StringTest.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="226" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.16.RELEASE/spring-beans-4.3.16.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java</url>
+          <line>1241</line>
+          <option name="timeStamp" value="229" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.16.RELEASE/spring-beans-4.3.16.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractBeanDefinition.java</url>
+          <line>517</line>
+          <option name="timeStamp" value="231" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.16.RELEASE/spring-beans-4.3.16.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java</url>
+          <line>297</line>
+          <option name="timeStamp" value="232" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dr/learning/StringSize.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="233" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dr/designPattern/proxy/dynamicProxy/Test.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="234" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dr/designPattern/proxy/dynamicProxy/Test.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="238" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dr/designPattern/proxy/dynamicProxy/Test.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="240" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dr/designPattern/proxy/dynamicProxy/cglib/CGLibProxy.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="241" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="graph.get(&quot;A&quot;)" language="JAVA" />
+        <watch expression="graph.get(&quot;D&quot;)" language="JAVA" />
+        <watch expression="graph" language="JAVA" />
+        <watch expression="next.nextRoute" language="JAVA" />
+        <watch expression="route.getToTown().getTownName()" language="JAVA" />
+        <watch expression="paths.subList(1,paths.size()-1).contains(String.valueOf(e.to()))" language="JAVA" />
+        <watch expression="edge.fromTown.getTownName()" language="JAVA" />
+        <watch expression="townList.get(i)" language="JAVA" />
+        <watch expression="routesCount" language="JAVA" />
+        <watch expression="paths.subList(1,paths.size()-1)" language="JAVA" />
+        <watch expression="paths.toString()" language="JAVA" />
+        <watch expression="paths.subList(1,paths.size()-1)" language="JAVA" />
+        <watch expression="paths.remove(0).contains(getTownName(e.to()))" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

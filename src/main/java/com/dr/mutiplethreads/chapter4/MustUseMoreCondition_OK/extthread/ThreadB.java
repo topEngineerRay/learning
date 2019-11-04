@@ -1,0 +1,18 @@
+package com.dr.mutiplethreads.chapter4.MustUseMoreCondition_OK.extthread;
+
+import com.dr.mutiplethreads.chapter4.MustUseMoreCondition_OK.service.MyService;
+
+public class ThreadB extends Thread {
+
+	private MyService service;
+
+	public ThreadB(MyService service) {
+		super();
+		this.service = service;
+	}
+
+	@Override
+	public void run() {
+		service.awaitB();
+	}
+}

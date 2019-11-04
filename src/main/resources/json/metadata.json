@@ -1,0 +1,150 @@
+{
+  "Namespace": "com.sap.ngom.businesspartner:business-partner",
+  "Entities": [
+    {
+      "Name": "individualCustomers",
+      "sap:pdm-semantics": "data-subject-identity",
+      "sap:pdm-business-object": "Customers",
+      "sap:pdm-business-node": "CustomerMaster",
+      "sap:updatable": "false",
+      "sap:deletable": "false",
+      "Keys": [
+        {
+          "Name": "customerNumber"
+        }
+      ],
+      "Properties": [
+        {
+          "Name": "customerNumber",
+          "sap:label": "{Customer_Number_PDM}",
+          "Type": "Edm.String",
+          "Nullable": false,
+          "MaxLength": 10,
+          "sap:pdm-display-seq-no": "1",
+          "sap:pdm-semantics": "data-subject-id",
+          "sap:pdm-property": "data-subject-id"
+        },
+        {
+          "Name": "firstName",
+          "sap:label": "{First_Name_PDM}",
+          "Type": "Edm.String",
+          "Nullable": false,
+          "MaxLength": 50,
+          "sap:pdm-display-seq-no": "2",
+          "sap:pdm-semantics": "personal-data",
+          "sap:pdm-property": "first-name"
+        },
+        {
+          "Name": "lastName",
+          "sap:label": "{Last_Name_PDM}",
+          "Type": "Edm.String",
+          "Nullable": false,
+          "MaxLength": 50,
+          "sap:pdm-display-seq-no": "3",
+          "sap:pdm-semantics": "personal-data",
+          "sap:pdm-property": "last-name"
+        },
+        {
+          "Name": "email",
+          "sap:label": "{Email_PDM}",
+          "Type": "Edm.String",
+          "Nullable": false,
+          "MaxLength": 241,
+          "sap:pdm-display-seq-no": "4",
+          "sap:pdm-semantics": "personal-data",
+          "sap:pdm-property": "email"
+        },
+        {
+          "Name": "phone",
+          "sap:label": "{Phone_PDM}",
+          "Type": "Edm.String",
+          "Nullable": true,
+          "MaxLength": 50,
+          "sap:pdm-display-seq-no": "5",
+          "sap:pdm-semantics": "personal-data",
+          "sap:pdm-property": "phone"
+        },
+        {
+          "Name": "country",
+          "sap:label": "{Country_PDM}",
+          "Type": "Edm.String",
+          "Nullable": false,
+          "MaxLength": 50,
+          "sap:pdm-display-seq-no": "6",
+          "sap:pdm-semantics": "personal-data",
+          "sap:pdm-property": "address-country"
+        },
+        {
+          "Name": "state",
+          "sap:label": "{State_PDM}",
+          "Type": "Edm.String",
+          "Nullable": true,
+          "MaxLength": 50,
+          "sap:pdm-display-seq-no": "7",
+          "sap:pdm-semantics": "personal-data",
+          "sap:pdm-property": "address-region"
+        },
+        {
+          "Name": "postalCode",
+          "sap:label": "{Postal_Code_PDM}",
+          "Type": "Edm.String",
+          "Nullable": true,
+          "MaxLength": 20,
+          "sap:pdm-display-seq-no": "8",
+          "sap:pdm-semantics": "personal-data",
+          "sap:pdm-property": "address-postal-code"
+        },
+        {
+          "Name": "city",
+          "sap:label": "{City_PDM}",
+          "Type": "Edm.String",
+          "Nullable": true,
+          "MaxLength": 200,
+          "sap:pdm-display-seq-no": "9",
+          "sap:pdm-semantics": "personal-data",
+          "sap:pdm-property": "address-city"
+        },
+        {
+          "Name": "street",
+          "sap:label": "{Street_PDM}",
+          "Type": "Edm.String",
+          "Nullable": true,
+          "MaxLength": 200,
+          "sap:pdm-display-seq-no": "10",
+          "sap:pdm-semantics": "personal-data",
+          "sap:pdm-property": "address-street"
+        },
+        {
+          "Name": "houseNumber",
+          "sap:label": "{House_Number_PDM}",
+          "Type": "Edm.String",
+          "Nullable": true,
+          "MaxLength": 50,
+          "sap:pdm-display-seq-no": "11",
+          "sap:pdm-semantics": "personal-data",
+          "sap:pdm-property": "address-house-number"
+        },
+        {
+          "Name": "dataSubjectRole",
+          "sap:label": "{Data_Subject_Role_PDM}",
+          "Type": "Edm.String",
+          "Nullable": false,
+          "MaxLength": 50,
+          "sap:pdm-display-seq-no": "12",
+          "sap:pdm-semantics": "data-subject-role",
+          "sap:pdm-property": "data-subject-role"
+        },
+        {
+          "Name": "dataSubjectRoleDescription",
+          "sap:label": "{Data_Subject_Role_Description}",
+          "Type": "Edm.String",
+          "Nullable": false,
+          "MaxLength": 50,
+          "sap:pdm-display-seq-no": "13",
+          "sap:pdm-semantics": "data-subject-role-desc",
+          "sap:pdm-property": "data-subject-role-desc"
+        }
+      ]
+    }
+  ]
+}
